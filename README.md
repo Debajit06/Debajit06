@@ -43,7 +43,7 @@ My primary focus is on writing clean, scalable code and developing practical pro
 
 - DevCom – Developer Community Chat App (MERN)
 
--AI Chatbot – Google Gemini API (MERN)
+- AI Chatbot – Google Gemini API (MERN)
 
 Each project focuses on clean architecture, readability, and scalability.
 
